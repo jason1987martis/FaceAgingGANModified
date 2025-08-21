@@ -1,7 +1,5 @@
 # Age Progression and Facial Alteration System for Forensic Investigations using GANs
 
-**Siddharth Kamath, Varun S Amin, Vinay Kumar U**
-
 We present a GAN-powered framework designed to aid forensic investigations by addressing critical challenges in image processing. Our approach integrates advanced deep generative models such as HRFAE and Pixel2Style2Pixel (pSp) to perform two key tasks: age progression of facial images and transformation of sketches into photo-realistic images. Leveraging the capabilities of Generative Adversarial Networks (GANs) and the multi-faceted CelebA dataset, this framework enhances image synthesis for forensic applications, offering tools for improved identity verification and reconstruction of inferior-quality imagery. These advancements significantly contribute to the accuracy and visual presentation of forensic evidence for law enforcement.
 
 ## Key Features
@@ -105,9 +103,6 @@ Simulate realistic age progression for identity evolution:
 ## Sketch-to-Face
 
 Leverages GANs to convert sketches into realistic human faces.
-
-- **Paper Link:** [https://arxiv.org/abs/2008.00951](https://arxiv.org/abs/2008.00951)
-- **Official Repository:** [https://github.com/eladrich/pixel2style2pixel](https://github.com/eladrich/pixel2style2pixel)
 
 ### System Requirements
 
